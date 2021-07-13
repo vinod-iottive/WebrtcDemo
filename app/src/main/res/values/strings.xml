@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">WebrtcDemo</string>
+    <string name="new_meeting">New Meeting</string>
+    <string name="join_with_code">Join with a code</string>
+    <string name="example_abc_xyz">Example: abc-xyz</string>
+    <string name="enter_the_join_code">Enter the join code provided by the your friend, meeting organiser</string>
+    <string name="join">Join</string>
+    <string name="please_enter_join_code">please enter join Code</string>
+
+
+    <string name="settings_name" translatable="false">AppRTC Settings</string>
+    <string name="disconnect_call">Disconnect Call</string>
+
+    <string name="invalid_url_title">Invalid URL</string>
+    <string name="invalid_url_text">The URL or room name you entered resulted in an invalid URL: %1$s
+    </string>
+    <string name="channel_error_title">Connection error</string>
+    <string name="connecting_to">Connecting to: %1$s</string>
+    <string name="missing_url">FATAL ERROR: Missing URL to connect to.</string>
+    <string name="camera2_texture_only_error">Camera2 only supports capturing to texture. Either disable Camera2 or enable capturing to texture in the options.</string>
+    <string name="ok">OK</string>
+    <string name="switch_camera">Switch front/back camera</string>
+    <string name="capture_format_change_text">Slide to change capture format</string>
+    <string name="muted">Muted</string>
+    <string name="toggle_debug">Toggle debug view</string>
+    <string name="toggle_mic">Toggle microphone on/off</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_loopback">Loopback connection</string>
+    <string name="connect_description">Connect to the room</string>
+    <string name="add_favorite_description">Add favorite</string>
+    <string name="format_description">%1$dx%2$d @ %3$d fps</string>
+    <string name="missing_permissions_try_again">The application is missing permissions. It might not work correctly. Do you want to try again?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="pref_videocall_default">true</string>
+    <string name="pref_screencapture_default">false</string>
+    <string name="pref_camera2_title">Use Camera2.</string>
+    <string name="pref_camera2_default">true</string>
+    <string name="pref_resolution_default">Default</string>
+    <string name="pref_fps_default">Default</string>
+     <string name="pref_capturequalityslider_default">false</string>
+    <string name="pref_maxvideobitrate_default">Default</string>
+    <string name="pref_maxvideobitratevalue_default">1700</string>
+    <string name="pref_videocodec_default">VP8</string>
+    <string name="pref_hwcodec_default">true</string>
+    <string name="pref_capturetotexture_default">true</string>
+    <string name="pref_flexfec_default">false</string>
+    <string name="pref_value_enabled">Enabled</string>
+    <string name="pref_value_disabled">Disabled</string>
+    <string name="pref_startaudiobitrate_default">Default</string>
+    <string name="pref_startaudiobitratevalue_default">32</string>
+    <string name="pref_audiocodec_default">OPUS</string>
+    <string name="pref_built_in_aec_not_available">Hardware AEC is not available</string>
+    <string name="pref_speakerphone_default">auto</string>
+    <string name="pref_data_protocol_default" translatable="false"></string>
+    <string name="pref_data_id_default" translatable="false">-1</string>
+    <string name="pref_room_server_url_key">room_server_url_preference</string>
+    <string name="pref_room_server_url_title">Room server URL.</string>
+    <string name="pref_room_server_url_dlg">Enter a room server URL.</string>
+    <string name="pref_room_server_url_default" translatable="false">https://appr.tc</string>
+    <string name="pref_displayhud_default" translatable="false">false</string>
+    <string name="pref_tracing_default" translatable="false">false</string>
+    <string name="pref_enable_rtceventlog_default">false</string>
+    <string name="create_meeting">Create meeting</string>
+    <string name="enter_code_or_use_random_code">Enter new code or use random code to create meeting</string>
+    <string name="create">Create</string>
+    <string name="share_invitation">Share invitation</string>
+    <string name="you_can_join_a_video_call_meeting">"You can join a video call meeting with your Room code :- "</string>
+    <string name="_or_click_on_the_link_below_to_join_the_meeting">"Or Click on the  link to join the meeting. "</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
